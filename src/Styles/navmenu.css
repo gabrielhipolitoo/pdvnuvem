@@ -1,0 +1,28 @@
+.navMenu{
+    width: 170px;
+    height: 100vh;
+    background-color: red;
+}
+
+.navMenu h1{
+    font-size: 22px;
+}
+
+.links{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.links a{
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
