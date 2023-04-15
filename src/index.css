@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@200;300;400;500&family=Istok+Web:wght@400;700&family=Open+Sans:wght@300;500;600;700&family=Roboto+Mono:wght@100&family=Roboto:wght@500&display=swap');
+
 body{
   height: 100%;
   margin: 0;
   padding: 0;
+}
+* {
+  font-family: 'open sans';
+  font-weight: lighter;
 }
