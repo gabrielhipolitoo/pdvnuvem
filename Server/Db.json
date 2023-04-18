@@ -1,0 +1,102 @@
+{
+  "estoque": [
+    {
+      "dados": [],
+      "id": 1
+    },
+    {
+      "dados": {
+        "nome": "margarina 55g",
+        "codigo INT": "445555588",
+        "codigo B": "554541346",
+        "fornecedor": "Qbom",
+        "compra": "1.75",
+        "venda": "4,50",
+        "quantidade": "55"
+      },
+      "id": 2
+    },
+    {
+      "dados": {
+        "nome": "margarina 55g",
+        "codigo INT": "445555588",
+        "codigo B": "554541346",
+        "fornecedor": "Qbom",
+        "compra": "1.75",
+        "venda": "4,50",
+        "quantidade": "55"
+      },
+      "id": 3
+    },
+    {
+      "dados": {
+        "nome": "margarina 55g",
+        "codigo INT": "445555588",
+        "codigo B": "554541346",
+        "fornecedor": "Qbom",
+        "compra": "1.75",
+        "venda": "4,50",
+        "quantidade": "55"
+      },
+      "id": 4
+    },
+    {
+      "dados": {
+        "nome": "margarina 55g",
+        "codigo INT": "445555588",
+        "codigo B": "554541346",
+        "fornecedor": "Qbom",
+        "compra": "1.75",
+        "venda": "4,50",
+        "quantidade": "55"
+      },
+      "id": 5
+    },
+    {
+      "dados": {
+        "nome": "margarina 55g",
+        "codigo INT": "445555588",
+        "codigo B": "554541346",
+        "fornecedor": "Qbom",
+        "compra": "1.75",
+        "venda": "4,50",
+        "quantidade": "55"
+      },
+      "id": 6
+    },
+    {
+      "dados": {
+        "nome": "margarina 55g",
+        "codigo INT": "445555588",
+        "codigo B": "554541346",
+        "fornecedor": "Qbom",
+        "compra": "1.75",
+        "venda": "4,50",
+        "quantidade": "55"
+      },
+      "id": 7
+    },
+    {
+      "dados": {
+        "nome": "feijao 1kg",
+        "codigo INT": "aaasa",
+        "fornecedor": "sa"
+      },
+      "id": 8
+    },
+    {
+      "dados": {
+        "nome": "feijao 1kg",
+        "codigo INT": "aaasa",
+        "fornecedor": "sa"
+      },
+      "id": 9
+    },
+    {
+      "dados": {
+        "nome": "a"
+      },
+      "id": 10
+    }
+  ]
+}

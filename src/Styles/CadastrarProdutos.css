@@ -1,0 +1,104 @@
+section{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+section h1{
+    margin: 10px;
+}
+
+.boxProdutos{
+    background-color: #fff;
+    width: 90%;
+    height: 510px;
+}
+
+
+.inputs{
+    margin-top: 30px;
+}
+
+#search{
+    width: 300px;
+    height: 35px;
+}
+
+input[type="button"],input[type="submit"]{
+    color: #fff;
+    background-color: #727CD1;
+    padding: 10px;
+    width: 100px;
+    height: 40px;
+    border: none;
+    margin-left: 10px;
+}
+
+.boxProdutos table{
+    text-align: center;
+    font-size: 12px;
+    width: 100%;
+    height: 30px;
+    color: #fff;
+    background-color: #727CD1;
+    margin: 60px auto;
+}
+
+
+/* Estilo para modais */
+
+.modalCad{
+    position: absolute;
+    top: 20px;
+    width:920px;
+    height: 500px;
+    background-color: #dddddd;
+}
+
+.modalCad h2{
+    margin: 10px;
+}
+
+.modalCad form {
+    margin: 10px;
+    display: flex;
+    height: inherit;
+    gap: 30px;
+    height: 400px;
+    flex-wrap: wrap;
+
+}
+
+
+.modalCad form label{
+    row-gap: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.modalCad form label > input{
+    flex-shrink: 2;
+    border-radius: 5px;
+    width: 230px;
+    height: 40px;
+    border: none;
+    outline: none;
+}
+.modalCad form label input::placeholder{
+    padding: 10px;
+}
+
+.modalCad form label input:focus{
+    border: 1px solid #727CD1;
+    margin: -1px;
+    background-color: #eeeeee;
+}
+
+.modalCad form > input{
+    width: 100px;
+    height: 50px;
+    margin-top: auto;
+}
